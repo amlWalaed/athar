@@ -1,4 +1,4 @@
-#to run project need to us run this command
+### to run project need to us run this command
 
 ```
  npm install
